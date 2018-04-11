@@ -1,0 +1,22 @@
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2018-04-11 14:09:37,690                                   
+【线程编号】[11]                                   
+【执行时间】[968]毫秒                                   
+【出错文件】E:\Project\Log4netMVC\Log4netMVC\Controllers\LogHelper.cs                                   
+【出错行号】33                                   
+【出错的类】logerror 属性[(null)]                                   
+【错误描述】尝试除以零。/r/nLog4netMVC/r/nSystem.Web.Mvc.ActionResult Index()/r/n   在 Log4netMVC.Controllers.HomeController.Index() 位置 E:\Project\Log4netMVC\Log4netMVC\Controllers\HomeController.cs:行号 20                                   
+【错误详情】
+
+＝＝＝＝＝＝＝＝＝＝                                   
+【日志级别】ERROR                                   
+【记录时间】2018-04-11 14:13:47,352                                   
+【线程编号】[7]                                   
+【执行时间】[887]毫秒                                   
+【出错文件】E:\Project\Log4netMVC\Log4netMVC\Controllers\LogHelper.cs                                   
+【出错行号】33                                   
+【出错的类】logerror 属性[(null)]                                   
+【错误描述】尝试除以零。/r/nLog4netMVC/r/nSystem.Web.Mvc.ActionResult Index()/r/n   在 Log4netMVC.Controllers.HomeController.Index() 位置 E:\Project\Log4netMVC\Log4netMVC\Controllers\HomeController.cs:行号 20                                   
+【错误详情】
